@@ -115,7 +115,7 @@ body {
   line-height: 1;
   font-weight: normal;
   font-size: 16px; 
-  /*background-color: grey;  */
+  overflow-x: hidden;
 }
 header {
   position: relative;
